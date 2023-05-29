@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+}
+.heading-basket{
+  color: Black;
+  font-family: monospace;
+  text-align: center;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
+th{
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  font-size: 1.2em;
+   color: #fff;
+}
+
+.bigbasket-hdr img{
+  width: 100px;
+}
+
+.dmart-hdr img{
+  width: 100px;
+}
+
+.jiomart-hdr img{
+  width: 100px;
+}
+
+td{
+  border: 1px solid black;
+  text-align: center;
+  padding: 3px;
+  font-size: 1.1em;
+}
+
+tr {
+  background-color: #fff;
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  color: black;
+}
+
+tfoot{
+  font-size: 1.1em;
+  font-weight: bold;
+  font-style: oblique;
+    color: #fff;
+}
+
+.remove-from-basket{
+  padding: 10px;
+  font-weight: bolder;
+  color: red;
+  font-family: arial;
+  font-style: oblique;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 4px;
+}
